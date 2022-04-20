@@ -1,1 +1,1 @@
-# generics
+# Generics Laboratory
