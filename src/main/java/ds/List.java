@@ -5,6 +5,4 @@ package ds;
  *
  * @param <T> type of elements in the list
  */
-public interface List<T> {
-
-}
+public interface List<T> {}
